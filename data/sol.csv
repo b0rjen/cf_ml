@@ -1,0 +1,1040 @@
+AÑO;MES;ESTACION_DE_MEDICION;CCAA;PROVINCIA;HORAS_DE_SOL_DIARIAS;INDICE_UV
+2011;1;MURCIA;Región de Murcia;Murcia;6,013;1,723
+2011;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,861;
+2011;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,319;
+2011;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,187;
+2011;2;MURCIA;Región de Murcia;Murcia;8,0;2,796
+2011;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,925;
+2011;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,775;
+2011;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,221;
+2011;3;MURCIA;Región de Murcia;Murcia;6,029;3,829
+2011;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,661;
+2011;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,852;
+2011;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,968;
+2011;4;MURCIA;Región de Murcia;Murcia;7,853;5,727
+2011;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,373;
+2011;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,883;
+2011;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,153;
+2011;5;MURCIA;Región de Murcia;Murcia;9,11;7,177
+2011;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,568;
+2011;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,752;
+2011;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,442;
+2011;6;MURCIA;Región de Murcia;Murcia;10,933;8,09
+2011;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,273;
+2011;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,63;
+2011;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,423;
+2011;7;MURCIA;Región de Murcia;Murcia;11,719;8,168
+2011;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,187;
+2011;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,035;
+2011;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,506;
+2011;8;MURCIA;Región de Murcia;Murcia;11,539;7,616
+2011;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,448;
+2011;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,948;
+2011;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,706;
+2011;9;MURCIA;Región de Murcia;Murcia;9,87;5,92
+2011;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,377;
+2011;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,107;
+2011;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,557;
+2011;10;MURCIA;Región de Murcia;Murcia;8,1;3,939
+2011;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,635;
+2011;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,506;
+2011;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,203;
+2011;11;MURCIA;Región de Murcia;Murcia;4,603;2,147
+2011;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;4,62;
+2011;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;4,853;
+2011;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,237;
+2011;12;MURCIA;Región de Murcia;Murcia;7,006;1,803
+2011;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,858;
+2011;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,445;
+2011;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,813;
+2012;1;MURCIA;Región de Murcia;Murcia;7,261;1,955
+2012;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,152;
+2012;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,052;
+2012;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,529;
+2012;2;MURCIA;Región de Murcia;Murcia;8,807;2,741
+2012;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,441;
+2012;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,072;
+2012;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,762;
+2012;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,721;
+2012;3;MURCIA;Región de Murcia;Murcia;9,165;4,445
+2012;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,671;
+2012;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,371;
+2012;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,903;
+2012;3;YECLA;Región de Murcia;Murcia;8,721;
+2012;3;ÁGUILAS;Región de Murcia;Murcia;9,25;
+2012;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,477;
+2012;4;MURCIA;Región de Murcia;Murcia;8,6;5,953
+2012;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,643;
+2012;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,27;
+2012;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,18;
+2012;4;YECLA;Región de Murcia;Murcia;8,08;
+2012;4;ÁGUILAS;Región de Murcia;Murcia;9,587;
+2012;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,723;
+2012;5;MURCIA;Región de Murcia;Murcia;11,11;7,629
+2012;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,971;
+2012;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,835;
+2012;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,665;
+2012;5;YECLA;Región de Murcia;Murcia;11,023;
+2012;5;ÁGUILAS;Región de Murcia;Murcia;11,358;
+2012;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,797;
+2012;6;MURCIA;Región de Murcia;Murcia;11,957;8,273
+2012;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,833;
+2012;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,177;
+2012;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,063;
+2012;6;YECLA;Región de Murcia;Murcia;11,96;
+2012;6;ÁGUILAS;Región de Murcia;Murcia;12,079;
+2012;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,861;
+2012;7;MURCIA;Región de Murcia;Murcia;11,948;8,207
+2012;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,577;
+2012;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,867;
+2012;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,239;
+2012;7;YECLA;Región de Murcia;Murcia;11,86;
+2012;7;ÁGUILAS;Región de Murcia;Murcia;12,393;
+2012;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,194;
+2012;8;MURCIA;Región de Murcia;Murcia;10,661;7,3
+2012;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,326;
+2012;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,406;
+2012;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,494;
+2012;8;YECLA;Región de Murcia;Murcia;10,614;
+2012;8;ÁGUILAS;Región de Murcia;Murcia;10,729;
+2012;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,431;
+2012;9;MURCIA;Región de Murcia;Murcia;8,053;5,53
+2012;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,653;
+2012;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,413;
+2012;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,42;
+2012;9;YECLA;Región de Murcia;Murcia;9,888;
+2012;9;ÁGUILAS;Región de Murcia;Murcia;8,93;
+2012;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,119;
+2012;10;MURCIA;Región de Murcia;Murcia;7,835;3,971
+2012;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,552;
+2012;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,077;
+2012;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,0;
+2012;10;YECLA;Región de Murcia;Murcia;7,246;
+2012;10;ÁGUILAS;Región de Murcia;Murcia;7,858;
+2012;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,267;
+2012;11;MURCIA;Región de Murcia;Murcia;4,727;1,953
+2012;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;4,583;
+2012;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;4,54;
+2012;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;4,997;
+2012;11;YECLA;Región de Murcia;Murcia;4,023;
+2012;11;ÁGUILAS;Región de Murcia;Murcia;4,84;
+2012;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,581;
+2012;12;MURCIA;Región de Murcia;Murcia;6,503;1,652
+2012;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,477;
+2012;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,894;
+2012;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,439;
+2012;12;YECLA;Región de Murcia;Murcia;6,858;
+2012;12;ÁGUILAS;Región de Murcia;Murcia;5,629;
+2013;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,287;
+2013;1;MURCIA;Región de Murcia;Murcia;7,568;1,929
+2013;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,5;
+2013;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,777;
+2013;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,355;
+2013;1;YECLA;Región de Murcia;Murcia;7,006;
+2013;1;ÁGUILAS;Región de Murcia;Murcia;7,126;
+2013;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,118;
+2013;2;MURCIA;Región de Murcia;Murcia;7,996;2,921
+2013;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,036;
+2013;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,764;
+2013;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,186;
+2013;2;YECLA;Región de Murcia;Murcia;7,282;
+2013;2;ÁGUILAS;Región de Murcia;Murcia;7,854;
+2013;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,932;
+2013;3;MURCIA;Región de Murcia;Murcia;6,597;4,281
+2013;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,177;
+2013;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,816;
+2013;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,239;
+2013;3;YECLA;Región de Murcia;Murcia;6,667;
+2013;3;ÁGUILAS;Región de Murcia;Murcia;7,242;
+2013;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,617;
+2013;4;MURCIA;Región de Murcia;Murcia;8,68;5,673
+2013;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,223;
+2013;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,97;
+2013;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,87;
+2013;4;YECLA;Región de Murcia;Murcia;7,763;
+2013;4;ÁGUILAS;Región de Murcia;Murcia;8,353;
+2013;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,503;
+2013;5;MURCIA;Región de Murcia;Murcia;10,413;7,242
+2013;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,6;
+2013;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,139;
+2013;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,943;
+2013;5;YECLA;Región de Murcia;Murcia;8,968;
+2013;5;ÁGUILAS;Región de Murcia;Murcia;9,876;
+2013;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,267;
+2013;6;MURCIA;Región de Murcia;Murcia;12,247;8,1
+2013;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,137;
+2013;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;12,153;
+2013;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,603;
+2013;6;YECLA;Región de Murcia;Murcia;11,537;
+2013;6;ÁGUILAS;Región de Murcia;Murcia;12,472;
+2013;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,782;
+2013;7;MURCIA;Región de Murcia;Murcia;12,61;8,235
+2013;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,294;
+2013;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,939;
+2013;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,477;
+2013;7;YECLA;Región de Murcia;Murcia;12,332;
+2013;7;ÁGUILAS;Región de Murcia;Murcia;12,303;
+2013;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,646;
+2013;8;MURCIA;Región de Murcia;Murcia;10,4;7,316
+2013;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,958;
+2013;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,261;
+2013;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,13;
+2013;8;YECLA;Región de Murcia;Murcia;9,777;
+2013;8;ÁGUILAS;Región de Murcia;Murcia;11,046;
+2013;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,963;
+2013;9;MURCIA;Región de Murcia;Murcia;8,38;5,493
+2013;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,2;
+2013;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,476;
+2013;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,58;
+2013;9;YECLA;Región de Murcia;Murcia;8,43;
+2013;9;ÁGUILAS;Región de Murcia;Murcia;9,61;
+2013;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,281;
+2013;10;MURCIA;Región de Murcia;Murcia;8,248;4,019
+2013;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,006;
+2013;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,997;
+2013;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,858;
+2013;10;YECLA;Región de Murcia;Murcia;8,139;
+2013;10;ÁGUILAS;Región de Murcia;Murcia;8,997;
+2013;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,11;
+2013;11;MURCIA;Región de Murcia;Murcia;7,443;2,34
+2013;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,497;
+2013;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,7;
+2013;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,16;
+2013;11;YECLA;Región de Murcia;Murcia;7,387;
+2013;11;ÁGUILAS;Región de Murcia;Murcia;7,303;
+2013;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,461;
+2013;12;MURCIA;Región de Murcia;Murcia;5,348;1,49
+2013;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,419;
+2013;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,474;
+2013;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,784;
+2013;12;YECLA;Región de Murcia;Murcia;5,535;
+2013;12;ÁGUILAS;Región de Murcia;Murcia;5,2;
+2014;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,919;
+2014;1;MURCIA;Región de Murcia;Murcia;5,952;1,665
+2014;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,923;
+2014;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,6;
+2014;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,855;
+2014;1;YECLA;Región de Murcia;Murcia;5,394;
+2014;1;ÁGUILAS;Región de Murcia;Murcia;6,11;
+2014;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,739;
+2014;2;MURCIA;Región de Murcia;Murcia;6,918;2,625
+2014;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,793;
+2014;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,439;
+2014;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,193;
+2014;2;YECLA;Región de Murcia;Murcia;6,293;
+2014;2;ÁGUILAS;Región de Murcia;Murcia;6,932;
+2014;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,997;
+2014;3;MURCIA;Región de Murcia;Murcia;8,016;4,348
+2014;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,948;
+2014;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,865;
+2014;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,223;
+2014;3;YECLA;Región de Murcia;Murcia;8,306;
+2014;3;ÁGUILAS;Región de Murcia;Murcia;9,467;
+2014;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,28;
+2014;4;MURCIA;Región de Murcia;Murcia;9,773;6,34
+2014;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,0;
+2014;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,45;
+2014;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,34;
+2014;4;YECLA;Región de Murcia;Murcia;9,493;
+2014;4;ÁGUILAS;Región de Murcia;Murcia;9,986;
+2014;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,732;
+2014;5;MURCIA;Región de Murcia;Murcia;10,119;7,468
+2014;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,026;
+2014;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,6;
+2014;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,913;
+2014;5;YECLA;Región de Murcia;Murcia;9,884;
+2014;5;ÁGUILAS;Región de Murcia;Murcia;11,391;
+2014;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,71;
+2014;6;MURCIA;Región de Murcia;Murcia;10,923;7,747
+2014;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,917;
+2014;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,873;
+2014;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,21;
+2014;6;YECLA;Región de Murcia;Murcia;10,063;
+2014;6;ÁGUILAS;Región de Murcia;Murcia;11,09;
+2014;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,437;
+2014;7;MURCIA;Región de Murcia;Murcia;11,971;8,103
+2014;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,952;
+2014;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;12,068;
+2014;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,507;
+2014;7;YECLA;Región de Murcia;Murcia;11,762;
+2014;7;ÁGUILAS;Región de Murcia;Murcia;12,408;
+2014;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,557;
+2014;8;MURCIA;Región de Murcia;Murcia;11,068;7,445
+2014;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,003;
+2014;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,316;
+2014;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,529;
+2014;8;YECLA;Región de Murcia;Murcia;11,019;
+2014;8;ÁGUILAS;Región de Murcia;Murcia;11,939;
+2014;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,537;
+2014;9;MURCIA;Región de Murcia;Murcia;7,74;5,687
+2014;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,47;
+2014;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,95;
+2014;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,197;
+2014;9;YECLA;Región de Murcia;Murcia;8,197;
+2014;9;ÁGUILAS;Región de Murcia;Murcia;8,752;
+2014;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,455;
+2014;10;MURCIA;Región de Murcia;Murcia;8,197;3,858
+2014;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,229;
+2014;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,445;
+2014;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,064;
+2014;10;YECLA;Región de Murcia;Murcia;8,423;
+2014;10;ÁGUILAS;Región de Murcia;Murcia;9,203;
+2014;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,721;
+2014;11;MURCIA;Región de Murcia;Murcia;5,463;2,238
+2014;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,4;
+2014;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,447;
+2014;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,793;
+2014;11;YECLA;Región de Murcia;Murcia;5,177;
+2014;11;ÁGUILAS;Región de Murcia;Murcia;6,071;
+2014;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,396;
+2014;12;MURCIA;Región de Murcia;Murcia;7,416;1,511
+2014;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,19;
+2014;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,045;
+2014;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,294;
+2014;12;YECLA;Región de Murcia;Murcia;6,861;
+2014;12;ÁGUILAS;Región de Murcia;Murcia;6,739;
+2015;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,894;
+2015;1;MURCIA;Región de Murcia;Murcia;7,681;1,684
+2015;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,719;
+2015;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,565;
+2015;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,823;
+2015;1;YECLA;Región de Murcia;Murcia;7,84;
+2015;1;ÁGUILAS;Región de Murcia;Murcia;7,306;
+2015;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,085;
+2015;2;MURCIA;Región de Murcia;Murcia;6,471;2,532
+2015;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,468;
+2015;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,111;
+2015;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,27;
+2015;2;YECLA;Región de Murcia;Murcia;5,471;
+2015;2;ÁGUILAS;Región de Murcia;Murcia;6,858;
+2015;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,164;
+2015;3;MURCIA;Región de Murcia;Murcia;7,626;4,152
+2015;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,284;
+2015;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,85;
+2015;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,832;
+2015;3;YECLA;Región de Murcia;Murcia;7,681;
+2015;3;ÁGUILAS;Región de Murcia;Murcia;8,139;
+2015;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,393;
+2015;4;MURCIA;Región de Murcia;Murcia;7,64;5,7
+2015;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,59;
+2015;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,45;
+2015;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,527;
+2015;4;YECLA;Región de Murcia;Murcia;7,967;
+2015;4;ÁGUILAS;Región de Murcia;Murcia;8,139;
+2015;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,536;
+2015;5;MURCIA;Región de Murcia;Murcia;10,616;7,358
+2015;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,332;
+2015;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,026;
+2015;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,168;
+2015;5;YECLA;Región de Murcia;Murcia;10,783;
+2015;5;ÁGUILAS;Región de Murcia;Murcia;10,635;
+2015;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,111;
+2015;6;MURCIA;Región de Murcia;Murcia;12,62;8,557
+2015;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,237;
+2015;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,877;
+2015;6;YECLA;Región de Murcia;Murcia;11,158;
+2015;6;ÁGUILAS;Región de Murcia;Murcia;12,317;
+2015;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,029;
+2015;7;MURCIA;Región de Murcia;Murcia;12,052;8,919
+2015;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,713;
+2015;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,719;
+2015;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,971;
+2015;7;YECLA;Región de Murcia;Murcia;11,206;
+2015;7;ÁGUILAS;Región de Murcia;Murcia;12,048;
+2015;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,958;
+2015;8;MURCIA;Región de Murcia;Murcia;10,41;7,913
+2015;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,8;
+2015;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,984;
+2015;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,445;
+2015;8;YECLA;Región de Murcia;Murcia;9,9;
+2015;8;ÁGUILAS;Región de Murcia;Murcia;10,248;
+2015;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,763;
+2015;9;MURCIA;Región de Murcia;Murcia;8,523;5,64
+2015;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,733;
+2015;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,345;
+2015;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,1;
+2015;9;YECLA;Región de Murcia;Murcia;7,761;
+2015;9;ÁGUILAS;Región de Murcia;Murcia;8,73;
+2015;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,587;
+2015;10;MURCIA;Región de Murcia;Murcia;7,019;3,697
+2015;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,871;
+2015;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,735;
+2015;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,2;
+2015;10;YECLA;Región de Murcia;Murcia;5,906;
+2015;10;ÁGUILAS;Región de Murcia;Murcia;7,439;
+2015;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,737;
+2015;11;MURCIA;Región de Murcia;Murcia;7,553;2,387
+2015;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,617;
+2015;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,241;
+2015;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,52;
+2015;11;YECLA;Región de Murcia;Murcia;7,717;
+2015;11;ÁGUILAS;Región de Murcia;Murcia;7,723;
+2015;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,255;
+2015;12;MURCIA;Región de Murcia;Murcia;6,239;1,603
+2015;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,135;
+2015;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,152;
+2015;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,419;
+2015;12;YECLA;Región de Murcia;Murcia;6,184;
+2015;12;ÁGUILAS;Región de Murcia;Murcia;6,245;
+2016;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,252;
+2016;1;MURCIA;Región de Murcia;Murcia;6,245;1,755
+2016;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,384;
+2016;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,7;
+2016;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,162;
+2016;1;YECLA;Región de Murcia;Murcia;5,777;
+2016;1;ÁGUILAS;Región de Murcia;Murcia;6,277;
+2016;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,355;
+2016;2;MURCIA;Región de Murcia;Murcia;6,662;2,734
+2016;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,372;
+2016;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,728;
+2016;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,766;
+2016;2;YECLA;Región de Murcia;Murcia;6,748;
+2016;2;ÁGUILAS;Región de Murcia;Murcia;6,069;
+2016;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,565;
+2016;3;MURCIA;Región de Murcia;Murcia;8,687;4,168
+2016;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,855;
+2016;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,906;
+2016;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,248;
+2016;3;YECLA;Región de Murcia;Murcia;8,09;
+2016;3;ÁGUILAS;Región de Murcia;Murcia;8,806;
+2016;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,263;
+2016;4;MURCIA;Región de Murcia;Murcia;9,017;5,903
+2016;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,476;
+2016;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,18;
+2016;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,22;
+2016;4;YECLA;Región de Murcia;Murcia;7,82;
+2016;4;ÁGUILAS;Región de Murcia;Murcia;8,767;
+2016;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,619;
+2016;5;MURCIA;Región de Murcia;Murcia;10,419;7,045
+2016;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,168;
+2016;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,074;
+2016;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,381;
+2016;5;YECLA;Región de Murcia;Murcia;9,284;
+2016;5;ÁGUILAS;Región de Murcia;Murcia;10,555;
+2016;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,033;
+2016;6;MURCIA;Región de Murcia;Murcia;12,273;8,237
+2016;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,917;
+2016;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,883;
+2016;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,28;
+2016;6;YECLA;Región de Murcia;Murcia;11,717;
+2016;6;ÁGUILAS;Región de Murcia;Murcia;12,087;
+2016;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,652;
+2016;7;MURCIA;Región de Murcia;Murcia;11,826;7,871
+2016;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,229;
+2016;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,352;
+2016;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,466;
+2016;7;YECLA;Región de Murcia;Murcia;11,216;
+2016;7;ÁGUILAS;Región de Murcia;Murcia;11,423;
+2016;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,274;
+2016;8;MURCIA;Región de Murcia;Murcia;11,51;7,523
+2016;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,081;
+2016;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,4;
+2016;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,542;
+2016;8;YECLA;Región de Murcia;Murcia;10,952;
+2016;8;ÁGUILAS;Región de Murcia;Murcia;11,467;
+2016;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,213;
+2016;9;MURCIA;Región de Murcia;Murcia;10,243;5,737
+2016;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,92;
+2016;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,693;
+2016;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,103;
+2016;9;YECLA;Región de Murcia;Murcia;9,663;
+2016;9;ÁGUILAS;Región de Murcia;Murcia;10,143;
+2016;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,794;
+2016;10;MURCIA;Región de Murcia;Murcia;7,09;3,729
+2016;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,432;
+2016;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,871;
+2016;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,597;
+2016;10;YECLA;Región de Murcia;Murcia;6,377;
+2016;10;ÁGUILAS;Región de Murcia;Murcia;7,694;
+2016;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,603;
+2016;11;MURCIA;Región de Murcia;Murcia;6,237;1,92
+2016;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,17;
+2016;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,5;
+2016;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,663;
+2016;11;YECLA;Región de Murcia;Murcia;5,719;
+2016;11;ÁGUILAS;Región de Murcia;Murcia;6,45;
+2016;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;2,535;
+2016;12;MURCIA;Región de Murcia;Murcia;4,51;1,316
+2016;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;4,655;
+2016;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;4,226;
+2016;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;4,27;
+2016;12;YECLA;Región de Murcia;Murcia;4,458;
+2016;12;ÁGUILAS;Región de Murcia;Murcia;4,632;
+2017;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,352;
+2017;1;MURCIA;Región de Murcia;Murcia;6,439;1,658
+2017;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,529;
+2017;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,293;
+2017;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,258;
+2017;1;YECLA;Región de Murcia;Murcia;5,877;
+2017;1;ÁGUILAS;Región de Murcia;Murcia;6,203;
+2017;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,964;
+2017;2;MURCIA;Región de Murcia;Murcia;6,718;2,468
+2017;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,021;
+2017;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,238;
+2017;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,961;
+2017;2;YECLA;Región de Murcia;Murcia;6,525;
+2017;2;ÁGUILAS;Región de Murcia;Murcia;6,489;
+2017;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,587;
+2017;3;MURCIA;Región de Murcia;Murcia;9,152;4,529
+2017;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,71;
+2017;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,442;
+2017;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,535;
+2017;3;YECLA;Región de Murcia;Murcia;9,177;
+2017;3;ÁGUILAS;Región de Murcia;Murcia;8,952;
+2017;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,64;
+2017;4;MURCIA;Región de Murcia;Murcia;9,437;5,637
+2017;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,133;
+2017;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,1;
+2017;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,903;
+2017;4;YECLA;Región de Murcia;Murcia;9,15;
+2017;4;ÁGUILAS;Región de Murcia;Murcia;9,78;
+2017;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,374;
+2017;5;MURCIA;Región de Murcia;Murcia;11,7;7,584
+2017;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,006;
+2017;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,774;
+2017;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,571;
+2017;5;YECLA;Región de Murcia;Murcia;10,926;
+2017;5;ÁGUILAS;Región de Murcia;Murcia;11,484;
+2017;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,393;
+2017;6;MURCIA;Región de Murcia;Murcia;12,78;8,28
+2017;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,467;
+2017;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;12,24;
+2017;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,637;
+2017;6;YECLA;Región de Murcia;Murcia;12,167;
+2017;6;ÁGUILAS;Región de Murcia;Murcia;12,193;
+2017;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,935;
+2017;7;MURCIA;Región de Murcia;Murcia;12,132;7,961
+2017;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,606;
+2017;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,687;
+2017;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,94;
+2017;7;YECLA;Región de Murcia;Murcia;11,532;
+2017;7;ÁGUILAS;Región de Murcia;Murcia;11,99;
+2017;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,89;
+2017;8;MURCIA;Región de Murcia;Murcia;9,565;6,761
+2017;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,077;
+2017;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,157;
+2017;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,348;
+2017;8;YECLA;Región de Murcia;Murcia;9,487;
+2017;8;ÁGUILAS;Región de Murcia;Murcia;9,4;
+2017;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,813;
+2017;9;MURCIA;Región de Murcia;Murcia;9,757;5,443
+2017;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,98;
+2017;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,397;
+2017;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,083;
+2017;9;YECLA;Región de Murcia;Murcia;9,271;
+2017;9;ÁGUILAS;Región de Murcia;Murcia;10,077;
+2017;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,2;
+2017;10;MURCIA;Región de Murcia;Murcia;8,419;4,077
+2017;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,287;
+2017;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,922;
+2017;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,313;
+2017;10;YECLA;Región de Murcia;Murcia;8,558;
+2017;10;ÁGUILAS;Región de Murcia;Murcia;9,377;
+2017;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,903;
+2017;11;MURCIA;Región de Murcia;Murcia;7,23;2,297
+2017;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,413;
+2017;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,238;
+2017;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,627;
+2017;11;YECLA;Región de Murcia;Murcia;7,437;
+2017;11;ÁGUILAS;Región de Murcia;Murcia;7,241;
+2017;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,987;
+2017;12;MURCIA;Región de Murcia;Murcia;6,571;1,626
+2017;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,981;
+2017;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,282;
+2017;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,287;
+2017;12;YECLA;Región de Murcia;Murcia;6,223;
+2017;12;ÁGUILAS;Región de Murcia;Murcia;6,96;
+2018;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,252;
+2018;1;MURCIA;Región de Murcia;Murcia;6,935;1,748
+2018;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,819;
+2018;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,845;
+2018;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,094;
+2018;1;YECLA;Región de Murcia;Murcia;6,684;
+2018;1;ÁGUILAS;Región de Murcia;Murcia;6,403;
+2018;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,957;
+2018;2;MURCIA;Región de Murcia;Murcia;6,982;2,482
+2018;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,161;
+2018;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,846;
+2018;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,921;
+2018;2;YECLA;Región de Murcia;Murcia;6,268;
+2018;2;ÁGUILAS;Región de Murcia;Murcia;7,696;
+2018;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,1;
+2018;3;MURCIA;Región de Murcia;Murcia;7,597;4,006
+2018;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,826;
+2018;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,993;
+2018;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,881;
+2018;3;YECLA;Región de Murcia;Murcia;6,813;
+2018;3;ÁGUILAS;Región de Murcia;Murcia;7,565;
+2018;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,537;
+2018;4;MURCIA;Región de Murcia;Murcia;9,127;5,833
+2018;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,853;
+2018;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,213;
+2018;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,363;
+2018;4;YECLA;Región de Murcia;Murcia;8,023;
+2018;4;ÁGUILAS;Región de Murcia;Murcia;9,053;
+2018;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,819;
+2018;5;MURCIA;Región de Murcia;Murcia;11,239;7,303
+2018;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,829;
+2018;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,019;
+2018;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,635;
+2018;5;YECLA;Región de Murcia;Murcia;9,016;
+2018;5;ÁGUILAS;Región de Murcia;Murcia;11,229;
+2018;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,704;
+2018;6;MURCIA;Región de Murcia;Murcia;11,753;8,183
+2018;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,07;
+2018;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,627;
+2018;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,817;
+2018;6;YECLA;Región de Murcia;Murcia;10,543;
+2018;6;ÁGUILAS;Región de Murcia;Murcia;11,853;
+2018;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,932;
+2018;7;MURCIA;Región de Murcia;Murcia;12,832;8,255
+2018;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,148;
+2018;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;12,21;
+2018;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,245;
+2018;7;YECLA;Región de Murcia;Murcia;12,381;
+2018;7;ÁGUILAS;Región de Murcia;Murcia;12,39;
+2018;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,829;
+2018;8;MURCIA;Región de Murcia;Murcia;10,448;7,226
+2018;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,968;
+2018;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,639;
+2018;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,867;
+2018;8;YECLA;Región de Murcia;Murcia;9,342;
+2018;8;ÁGUILAS;Región de Murcia;Murcia;11,026;
+2018;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,453;
+2018;9;MURCIA;Región de Murcia;Murcia;8,743;5,497
+2018;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,477;
+2018;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,907;
+2018;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,23;
+2018;9;YECLA;Región de Murcia;Murcia;8,17;
+2018;9;ÁGUILAS;Región de Murcia;Murcia;8,65;
+2018;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,903;
+2018;10;MURCIA;Región de Murcia;Murcia;7,081;3,668
+2018;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,61;
+2018;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,927;
+2018;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,561;
+2018;10;YECLA;Región de Murcia;Murcia;7,14;
+2018;10;ÁGUILAS;Región de Murcia;Murcia;7,019;
+2018;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,443;
+2018;11;MURCIA;Región de Murcia;Murcia;5,903;2,19
+2018;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,787;
+2018;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,657;
+2018;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,833;
+2018;11;YECLA;Región de Murcia;Murcia;4,783;
+2018;11;ÁGUILAS;Región de Murcia;Murcia;6,193;
+2018;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,448;
+2018;12;MURCIA;Región de Murcia;Murcia;7,377;1,797
+2018;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,4;
+2018;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,516;
+2018;12;YECLA;Región de Murcia;Murcia;7,355;
+2018;12;ÁGUILAS;Región de Murcia;Murcia;6,842;
+2019;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,862;
+2019;1;MURCIA;Región de Murcia;Murcia;7,332;1,913
+2019;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,468;
+2019;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,958;
+2019;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,242;
+2019;1;YECLA;Región de Murcia;Murcia;7,387;
+2019;1;ÁGUILAS;Región de Murcia;Murcia;7,161;
+2019;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,75;
+2019;2;MURCIA;Región de Murcia;Murcia;8,354;3,215
+2019;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,404;
+2019;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,839;
+2019;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,596;
+2019;2;YECLA;Región de Murcia;Murcia;8,943;
+2019;2;ÁGUILAS;Región de Murcia;Murcia;9,45;
+2019;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,439;
+2019;3;MURCIA;Región de Murcia;Murcia;8,842;4,526
+2019;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,581;
+2019;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,355;
+2019;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,061;
+2019;3;YECLA;Región de Murcia;Murcia;8,865;
+2019;3;ÁGUILAS;Región de Murcia;Murcia;8,797;
+2019;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,787;
+2019;4;MURCIA;Región de Murcia;Murcia;8,377;5,35
+2019;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,803;
+2019;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,193;
+2019;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,237;
+2019;4;YECLA;Región de Murcia;Murcia;7,397;
+2019;4;ÁGUILAS;Región de Murcia;Murcia;8,579;
+2019;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,532;
+2019;5;MURCIA;Región de Murcia;Murcia;10,897;7,439
+2019;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,516;
+2019;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,645;
+2019;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,181;
+2019;5;YECLA;Región de Murcia;Murcia;10,3;
+2019;5;ÁGUILAS;Región de Murcia;Murcia;11,345;
+2019;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,277;
+2019;6;MURCIA;Región de Murcia;Murcia;12,697;8,193
+2019;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;12,133;
+2019;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,97;
+2019;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,177;
+2019;6;YECLA;Región de Murcia;Murcia;11,4;
+2019;6;ÁGUILAS;Región de Murcia;Murcia;12,234;
+2019;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,948;
+2019;7;MURCIA;Región de Murcia;Murcia;11,735;7,752
+2019;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,181;
+2019;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,258;
+2019;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,665;
+2019;7;ÁGUILAS;Región de Murcia;Murcia;11,477;
+2019;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,862;
+2019;8;MURCIA;Región de Murcia;Murcia;11,148;7,403
+2019;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,69;
+2019;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,368;
+2019;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,142;
+2019;8;ÁGUILAS;Región de Murcia;Murcia;10,935;
+2019;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,834;
+2019;9;MURCIA;Región de Murcia;Murcia;8,253;5,217
+2019;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,167;
+2019;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,821;
+2019;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,376;
+2019;9;YECLA;Región de Murcia;Murcia;7,604;
+2019;9;ÁGUILAS;Región de Murcia;Murcia;9,034;
+2019;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,519;
+2019;10;MURCIA;Región de Murcia;Murcia;8,1;3,868
+2019;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,623;
+2019;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,263;
+2019;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,403;
+2019;10;YECLA;Región de Murcia;Murcia;8,303;
+2019;10;ÁGUILAS;Región de Murcia;Murcia;8,59;
+2019;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,028;
+2019;11;MURCIA;Región de Murcia;Murcia;7,36;2,12
+2019;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,307;
+2019;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,237;
+2019;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,579;
+2019;11;YECLA;Región de Murcia;Murcia;6,813;
+2019;11;ÁGUILAS;Región de Murcia;Murcia;7,641;
+2019;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,034;
+2019;12;MURCIA;Región de Murcia;Murcia;5,226;1,419
+2019;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,313;
+2019;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,039;
+2019;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,545;
+2019;12;YECLA;Región de Murcia;Murcia;5,681;
+2019;12;ÁGUILAS;Región de Murcia;Murcia;4,929;
+2020;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,455;
+2020;1;MURCIA;Región de Murcia;Murcia;6,374;1,545
+2020;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,371;
+2020;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,707;
+2020;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,929;
+2020;1;YECLA;Región de Murcia;Murcia;6,043;
+2020;1;ÁGUILAS;Región de Murcia;Murcia;6,135;
+2020;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,903;
+2020;2;MURCIA;Región de Murcia;Murcia;8,059;3,041
+2020;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,734;
+2020;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,0;
+2020;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,472;
+2020;2;YECLA;Región de Murcia;Murcia;7,814;
+2020;2;ÁGUILAS;Región de Murcia;Murcia;8,131;
+2020;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,439;
+2020;3;MURCIA;Región de Murcia;Murcia;6,61;3,723
+2020;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,939;
+2020;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,965;
+2020;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,69;
+2020;3;YECLA;Región de Murcia;Murcia;5,481;
+2020;3;ÁGUILAS;Región de Murcia;Murcia;6,34;
+2020;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,04;
+2020;4;MURCIA;Región de Murcia;Murcia;7,22;5,66
+2020;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,573;
+2020;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,429;
+2020;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,807;
+2020;4;YECLA;Región de Murcia;Murcia;6,6;
+2020;4;ÁGUILAS;Región de Murcia;Murcia;7,093;
+2020;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,319;
+2020;5;MURCIA;Región de Murcia;Murcia;11,248;7,419
+2020;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,623;
+2020;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,481;
+2020;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,316;
+2020;5;YECLA;Región de Murcia;Murcia;10,077;
+2020;5;ÁGUILAS;Región de Murcia;Murcia;11,255;
+2020;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,393;
+2020;6;MURCIA;Región de Murcia;Murcia;11,843;8,343
+2020;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,77;
+2020;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,667;
+2020;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,05;
+2020;6;YECLA;Región de Murcia;Murcia;11,19;
+2020;6;ÁGUILAS;Región de Murcia;Murcia;12,107;
+2020;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,071;
+2020;7;MURCIA;Región de Murcia;Murcia;12,41;8,245
+2020;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,919;
+2020;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,387;
+2020;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,006;
+2020;7;YECLA;Región de Murcia;Murcia;11,574;
+2020;7;ÁGUILAS;Región de Murcia;Murcia;12,323;
+2020;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,455;
+2020;8;MURCIA;Región de Murcia;Murcia;11,619;7,477
+2020;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,213;
+2020;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,983;
+2020;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,139;
+2020;8;YECLA;Región de Murcia;Murcia;10,99;
+2020;8;ÁGUILAS;Región de Murcia;Murcia;11,342;
+2020;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,757;
+2020;9;MURCIA;Región de Murcia;Murcia;9,753;5,613
+2020;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,387;
+2020;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,433;
+2020;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,837;
+2020;9;YECLA;Región de Murcia;Murcia;9,287;
+2020;9;ÁGUILAS;Región de Murcia;Murcia;9,223;
+2020;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,987;
+2020;10;MURCIA;Región de Murcia;Murcia;8,913;3,79
+2020;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,652;
+2020;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,316;
+2020;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,19;
+2020;10;YECLA;Región de Murcia;Murcia;8,506;
+2020;10;ÁGUILAS;Región de Murcia;Murcia;9,125;
+2020;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,63;
+2020;11;MURCIA;Región de Murcia;Murcia;7,127;2,213
+2020;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,973;
+2020;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,513;
+2020;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,797;
+2020;11;YECLA;Región de Murcia;Murcia;6,483;
+2020;11;ÁGUILAS;Región de Murcia;Murcia;6,917;
+2020;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,39;
+2020;12;MURCIA;Región de Murcia;Murcia;7,032;1,597
+2020;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,213;
+2020;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,684;
+2020;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,984;
+2020;12;YECLA;Región de Murcia;Murcia;6,819;
+2020;12;ÁGUILAS;Región de Murcia;Murcia;6,545;
+2021;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,358;
+2021;1;MURCIA;Región de Murcia;Murcia;6,276;1,668
+2021;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,426;
+2021;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,784;
+2021;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,774;
+2021;1;YECLA;Región de Murcia;Murcia;6,268;
+2021;1;ÁGUILAS;Región de Murcia;Murcia;6,535;
+2021;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,8;
+2021;2;MURCIA;Región de Murcia;Murcia;6,17;2,636
+2021;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,086;
+2021;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,914;
+2021;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,121;
+2021;2;YECLA;Región de Murcia;Murcia;6,296;
+2021;2;ÁGUILAS;Región de Murcia;Murcia;7,064;
+2021;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,37;
+2021;3;MURCIA;Región de Murcia;Murcia;7,355;3,952
+2021;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,0;
+2021;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,919;
+2021;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,097;
+2021;3;YECLA;Región de Murcia;Murcia;7,361;
+2021;3;ÁGUILAS;Región de Murcia;Murcia;7,447;
+2021;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,877;
+2021;4;MURCIA;Región de Murcia;Murcia;6,567;5,04
+2021;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,65;
+2021;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,437;
+2021;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,137;
+2021;4;YECLA;Región de Murcia;Murcia;5,707;
+2021;4;ÁGUILAS;Región de Murcia;Murcia;7,069;
+2021;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,247;
+2021;5;MURCIA;Región de Murcia;Murcia;10,597;7,361
+2021;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,923;
+2021;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,048;
+2021;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,603;
+2021;5;YECLA;Región de Murcia;Murcia;9,983;
+2021;5;ÁGUILAS;Región de Murcia;Murcia;10,187;
+2021;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,36;
+2021;6;MURCIA;Región de Murcia;Murcia;11,103;7,903
+2021;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,577;
+2021;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,243;
+2021;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,047;
+2021;6;YECLA;Región de Murcia;Murcia;10,38;
+2021;6;ÁGUILAS;Región de Murcia;Murcia;10,963;
+2021;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,97;
+2021;7;MURCIA;Región de Murcia;Murcia;12,261;7,887
+2021;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,374;
+2021;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,648;
+2021;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,177;
+2021;7;YECLA;Región de Murcia;Murcia;11,955;
+2021;7;ÁGUILAS;Región de Murcia;Murcia;11,739;
+2021;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,155;
+2021;8;MURCIA;Región de Murcia;Murcia;10,084;6,913
+2021;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,419;
+2021;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,658;
+2021;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,397;
+2021;8;YECLA;Región de Murcia;Murcia;10,09;
+2021;8;ÁGUILAS;Región de Murcia;Murcia;10,258;
+2021;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,763;
+2021;9;MURCIA;Región de Murcia;Murcia;8,837;5,53
+2021;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,623;
+2021;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,813;
+2021;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,057;
+2021;9;YECLA;Región de Murcia;Murcia;7,903;
+2021;9;ÁGUILAS;Región de Murcia;Murcia;9,033;
+2021;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,423;
+2021;10;MURCIA;Región de Murcia;Murcia;7,757;3,616
+2021;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,442;
+2021;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,658;
+2021;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,174;
+2021;10;YECLA;Región de Murcia;Murcia;6,881;
+2021;10;ÁGUILAS;Región de Murcia;Murcia;8,168;
+2021;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,73;
+2021;11;MURCIA;Región de Murcia;Murcia;6,533;2,113
+2021;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,88;
+2021;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,763;
+2021;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,79;
+2021;11;YECLA;Región de Murcia;Murcia;6,51;
+2021;11;ÁGUILAS;Región de Murcia;Murcia;6,763;
+2021;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,071;
+2021;12;MURCIA;Región de Murcia;Murcia;5,371;1,435
+2021;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,41;
+2021;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,694;
+2021;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,555;
+2021;12;YECLA;Región de Murcia;Murcia;6,017;
+2021;12;ÁGUILAS;Región de Murcia;Murcia;5,126;
+2022;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,834;
+2022;1;MURCIA;Región de Murcia;Murcia;6,352;1,613
+2022;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,135;
+2022;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,661;
+2022;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;6,884;
+2022;1;YECLA;Región de Murcia;Murcia;7,039;
+2022;1;ÁGUILAS;Región de Murcia;Murcia;6,626;
+2022;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,475;
+2022;2;MURCIA;Región de Murcia;Murcia;7,293;2,757
+2022;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,2;
+2022;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,821;
+2022;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,232;
+2022;2;YECLA;Región de Murcia;Murcia;7,286;
+2022;2;ÁGUILAS;Región de Murcia;Murcia;7,104;
+2022;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;2,179;
+2022;3;MURCIA;Región de Murcia;Murcia;3,258;2,597
+2022;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;2,5;
+2022;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;3,239;
+2022;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;3,994;
+2022;3;YECLA;Región de Murcia;Murcia;3,235;
+2022;3;ÁGUILAS;Región de Murcia;Murcia;3,84;
+2022;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,62;
+2022;4;MURCIA;Región de Murcia;Murcia;8,11;5,203
+2022;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,363;
+2022;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,513;
+2022;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,227;
+2022;4;YECLA;Región de Murcia;Murcia;7,783;
+2022;4;ÁGUILAS;Región de Murcia;Murcia;7,613;
+2022;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,219;
+2022;5;MURCIA;Región de Murcia;Murcia;11,85;7,355
+2022;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,994;
+2022;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,38;
+2022;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,881;
+2022;5;YECLA;Región de Murcia;Murcia;10,771;
+2022;5;ÁGUILAS;Región de Murcia;Murcia;11,248;
+2022;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;12,011;
+2022;6;MURCIA;Región de Murcia;Murcia;12,763;8,377
+2022;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,923;
+2022;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,421;
+2022;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,507;
+2022;6;YECLA;Región de Murcia;Murcia;12,05;
+2022;6;ÁGUILAS;Región de Murcia;Murcia;11,823;
+2022;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,681;
+2022;7;MURCIA;Región de Murcia;Murcia;12,561;8,2
+2022;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,829;
+2022;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,89;
+2022;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;12,51;
+2022;7;YECLA;Región de Murcia;Murcia;11,241;
+2022;7;ÁGUILAS;Región de Murcia;Murcia;12,006;
+2022;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,577;
+2022;8;MURCIA;Región de Murcia;Murcia;11,468;7,194
+2022;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,981;
+2022;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,197;
+2022;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,532;
+2022;8;YECLA;Región de Murcia;Murcia;10,987;
+2022;8;ÁGUILAS;Región de Murcia;Murcia;11,252;
+2022;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,613;
+2022;9;MURCIA;Región de Murcia;Murcia;9,163;5,576
+2022;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,89;
+2022;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,779;
+2022;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,047;
+2022;9;YECLA;Región de Murcia;Murcia;8,433;
+2022;9;ÁGUILAS;Región de Murcia;Murcia;8,867;
+2022;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,842;
+2022;10;MURCIA;Región de Murcia;Murcia;7,397;3,565
+2022;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,381;
+2022;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,232;
+2022;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,338;
+2022;10;YECLA;Región de Murcia;Murcia;6,984;
+2022;10;ÁGUILAS;Región de Murcia;Murcia;7,371;
+2022;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,767;
+2022;11;MURCIA;Región de Murcia;Murcia;7,155;2,32
+2022;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;6,737;
+2022;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;6,987;
+2022;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,28;
+2022;11;YECLA;Región de Murcia;Murcia;6,977;
+2022;11;ÁGUILAS;Región de Murcia;Murcia;7,107;
+2022;12;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;3,553;
+2022;12;MURCIA;Región de Murcia;Murcia;5,306;1,535
+2022;12;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,094;
+2022;12;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,265;
+2022;12;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,455;
+2022;12;YECLA;Región de Murcia;Murcia;4,852;
+2022;12;ÁGUILAS;Región de Murcia;Murcia;5,69;
+2023;1;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,232;
+2023;1;MURCIA;Región de Murcia;Murcia;7,684;1,687
+2023;1;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,519;
+2023;1;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,339;
+2023;1;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;7,632;
+2023;1;YECLA;Región de Murcia;Murcia;7,529;
+2023;1;ÁGUILAS;Región de Murcia;Murcia;7,168;
+2023;2;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;4,232;
+2023;2;MURCIA;Región de Murcia;Murcia;5,404;2,386
+2023;2;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;5,218;
+2023;2;MURCIA/SAN JAVIER;Región de Murcia;Murcia;5,896;
+2023;2;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;5,943;
+2023;2;YECLA;Región de Murcia;Murcia;6,048;
+2023;2;ÁGUILAS;Región de Murcia;Murcia;5,539;
+2023;3;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;8,177;
+2023;3;MURCIA;Región de Murcia;Murcia;9,829;4,848
+2023;3;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,468;
+2023;3;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,732;
+2023;3;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,335;
+2023;3;YECLA;Región de Murcia;Murcia;9,474;
+2023;3;ÁGUILAS;Región de Murcia;Murcia;9,623;
+2023;4;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;10,78;
+2023;4;MURCIA;Región de Murcia;Murcia;10,827;6,826
+2023;4;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;9,99;
+2023;4;MURCIA/SAN JAVIER;Región de Murcia;Murcia;9,773;
+2023;4;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;10,897;
+2023;4;YECLA;Región de Murcia;Murcia;11,083;
+2023;4;ÁGUILAS;Región de Murcia;Murcia;10,753;
+2023;5;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,481;
+2023;5;MURCIA;Región de Murcia;Murcia;8,755;6,845
+2023;5;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,058;
+2023;5;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,655;
+2023;5;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;9,352;
+2023;5;YECLA;Región de Murcia;Murcia;7,597;
+2023;5;ÁGUILAS;Región de Murcia;Murcia;9,416;
+2023;6;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;9,459;
+2023;6;MURCIA;Región de Murcia;Murcia;10,443;7,36
+2023;6;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,017;
+2023;6;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,572;
+2023;6;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,147;
+2023;6;YECLA;Región de Murcia;Murcia;9,667;
+2023;6;ÁGUILAS;Región de Murcia;Murcia;10,643;
+2023;7;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,047;
+2023;7;MURCIA;Región de Murcia;Murcia;11,255;7,981
+2023;7;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;10,816;
+2023;7;MURCIA/SAN JAVIER;Región de Murcia;Murcia;10,837;
+2023;7;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,11;
+2023;7;YECLA;Región de Murcia;Murcia;10,894;
+2023;7;ÁGUILAS;Región de Murcia;Murcia;11,019;
+2023;8;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;11,426;
+2023;8;MURCIA;Región de Murcia;Murcia;11,674;7,313
+2023;8;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;11,184;
+2023;8;MURCIA/SAN JAVIER;Región de Murcia;Murcia;11,377;
+2023;8;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;11,665;
+2023;8;YECLA;Región de Murcia;Murcia;11,535;
+2023;8;ÁGUILAS;Región de Murcia;Murcia;11,484;
+2023;9;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;7,279;
+2023;9;MURCIA;Región de Murcia;Murcia;8,867;5,303
+2023;9;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,411;
+2023;9;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,407;
+2023;9;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,917;
+2023;9;YECLA;Región de Murcia;Murcia;8,693;
+2023;9;ÁGUILAS;Región de Murcia;Murcia;9,007;
+2023;10;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;6,171;
+2023;10;MURCIA;Región de Murcia;Murcia;8,353;3,706
+2023;10;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;7,958;
+2023;10;MURCIA/SAN JAVIER;Región de Murcia;Murcia;7,893;
+2023;10;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,545;
+2023;10;YECLA;Región de Murcia;Murcia;7,768;
+2023;10;ÁGUILAS;Región de Murcia;Murcia;8,629;
+2023;11;CARAVACA,FUENTES DEL MARQUÉS;Región de Murcia;Murcia;5,445;
+2023;11;MURCIA;Región de Murcia;Murcia;8,33;2,32
+2023;11;MURCIA/ALCANTARILLA;Región de Murcia;Murcia;8,019;
+2023;11;MURCIA/SAN JAVIER;Región de Murcia;Murcia;8,07;
+2023;11;MURCIA/SAN JAVIER II;Región de Murcia;Murcia;8,55;
+2023;11;YECLA;Región de Murcia;Murcia;8,193;
+2023;11;ÁGUILAS;Región de Murcia;Murcia;8,09;
